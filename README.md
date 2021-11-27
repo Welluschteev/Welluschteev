@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/Welluschteev/Welluschteev/master/profilegif.gif "Header")
+<img src="https://raw.githubusercontent.com/Welluschteev/Welluschteev/master/profilegif.gif" width="30px">
+
 ### Hi there 👋
 
 <!--
